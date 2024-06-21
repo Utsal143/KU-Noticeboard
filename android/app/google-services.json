@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "176897825195",
+    "project_id": "ku-notices-b3e6c",
+    "storage_bucket": "ku-notices-b3e6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176897825195:android:680b65556837a7e3001aee",
+        "android_client_info": {
+          "package_name": "com.example.notices_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH1KmhM34iGMZn4ScgBeTsx1iBiQV18ws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
